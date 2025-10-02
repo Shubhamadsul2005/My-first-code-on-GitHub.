@@ -174,11 +174,7 @@ public class LinkedListAllOperation
                  default:
                          System.out.println("invalid choice");
             }
-        }while(choice!=5);
-         
-            
-            
-        
+        }while(choice!=5);            
     }
 }
 
